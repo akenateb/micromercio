@@ -1,0 +1,945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-22 10:39+0100\n"
+"PO-Revision-Date: 2021-09-22 10:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Views/footer.php\n"
+"X-Poedit-SearchPath-1: Views/header.php\n"
+"X-Poedit-SearchPath-2: Views/Home.php\n"
+"X-Poedit-SearchPath-3: Views/cNotfound\n"
+"X-Poedit-SearchPath-4: Views/Contactar\n"
+"X-Poedit-SearchPath-5: Views/mNotfound\n"
+"X-Poedit-SearchPath-6: Views/quienes_somos\n"
+"X-Poedit-SearchPath-7: Views/Servicios\n"
+"X-Poedit-SearchPath-8: Helpers/Helpers.php\n"
+"X-Poedit-SearchPath-9: Views/Impresion3D\n"
+
+#: Helpers/Helpers.php:105
+msgid "Mensaje enviado correctamente"
+msgstr "Message sent successfully"
+
+#: Helpers/Helpers.php:108
+#, fuzzy
+msgid "Ha ocurrido un error al enviar el mensaje"
+msgstr "An error occurred while sending the message"
+
+#: Views/Contactar/Contactar.php:25
+msgid "Contactar con Nosotros, solicitar presupuesto"
+msgstr "Contact Us, request a quote"
+
+#: Views/Contactar/Contactar.php:64
+msgid "Contactar con nosotros"
+msgstr "Contact with us"
+
+#: Views/Contactar/Contactar.php:75
+msgid "Nombre"
+msgstr "Name"
+
+#: Views/Contactar/Contactar.php:85
+msgid "Teléfono"
+msgstr "Telephone"
+
+#: Views/Contactar/Contactar.php:92
+msgid "Asunto"
+msgstr "Subject"
+
+#: Views/Contactar/Contactar.php:97
+msgid "Servicios"
+msgstr "Services"
+
+#: Views/Contactar/Contactar.php:99
+#, fuzzy
+#| msgid "Seleccione uno"
+msgid "Selecciona uno"
+msgstr "Select one"
+
+#: Views/Contactar/Contactar.php:100
+#, fuzzy
+#| msgid "Mantenimiento personalizable"
+msgid "Mantenimiento Web"
+msgstr "Customizable maintenance"
+
+#: Views/Contactar/Contactar.php:101
+msgid "Desarrollo Web"
+msgstr "Web Development"
+
+#: Views/Contactar/Contactar.php:102
+#, fuzzy
+msgid "Desarrollo App"
+msgstr "App Development"
+
+#: Views/Contactar/Contactar.php:103
+#, fuzzy
+msgid "Otros"
+msgstr "Other"
+
+#: Views/Contactar/Contactar.php:110
+msgid "Mensaje"
+msgstr "Message"
+
+#: Views/Contactar/Contactar.php:127
+msgid "Enviar Mensaje"
+msgstr "Send Message"
+
+#: Views/Contactar/Contactar.php:143
+msgid "Nuestras Oficinas"
+msgstr "Our Offices"
+
+#: Views/Contactar/Contactar.php:149
+msgid "Teléfono Fijo: "
+msgstr "Telephone: "
+
+#: Views/Contactar/Contactar.php:150
+msgid "Teléfono Móvil:"
+msgstr "Mobile phone:"
+
+#: Views/Home.php:25
+msgid "Creamos páginas web profesionales corporativas"
+msgstr "We create corporate professional websites"
+
+#: Views/Home.php:83
+msgid "Bienvenid@ a Micromercio"
+msgstr "Welcome to Micromercio"
+
+#: Views/Home.php:98
+msgid "Hacemos plataformas profesionales desde hace muchos años"
+msgstr "We have been making professional platforms for many years"
+
+#: Views/Home.php:118
+#, fuzzy
+msgid "Páginas web y Aplicaciones para dipositivos"
+msgstr "Websites and Applications for Devices"
+
+#: Views/Home.php:132
+#, fuzzy
+msgid "Desarrollamos aplicaciones web"
+msgstr "We develop web applications"
+
+#: Views/Home.php:147
+#, fuzzy
+msgid "Para empresas y particulares"
+msgstr "For companies and individuals"
+
+#: Views/Home.php:167
+#, fuzzy
+msgid "Si no estás en internet no existes"
+msgstr "If you are not on the internet you do not exist"
+
+#: Views/Home.php:181
+#, fuzzy
+#| msgid "Amplie su presencia"
+msgid "Amplie su presencia comercial"
+msgstr "Expand your commercial"
+
+#: Views/Home.php:196
+#, fuzzy
+msgid "Llegue a un mayor número de clientes potenciales"
+msgstr "Reach a larger number of potential customers"
+
+#: Views/Home.php:213
+msgid "Usted pone el negocio"
+msgstr "You put the business"
+
+#: Views/Home.php:215
+msgid "Nosotros lo difundimos"
+msgstr "We broadcast it"
+
+#: Views/Home.php:219
+msgid ""
+"Hacemos páginas web profesionales personalizadas, para ser usadas en "
+"diferentes plataformas y en distintos entornos. Le ofrecemos el diseño y "
+"creación de aplicativos web con los acabados más avanzados para la "
+"implementación de páginas web corporativas y aplicaciones web (Android e "
+"IOS). Somos su mejor opción entre las empresas de creación de páginas web."
+msgstr ""
+"We make personalized professional websites, to be used in different "
+"platforms and in different environments. We offer you the design and "
+"creation of web applications with the most advanced finishes for the "
+"implementation of corporate websites and web applications (Android and IOS). "
+"We are your best choice among website creation companies."
+
+#: Views/Home.php:226
+msgid "Internet nunca descansa"
+msgstr "Internet never rests"
+
+#: Views/Home.php:228
+msgid ""
+"Con nosotros puede descansar sabiendo que su plataforma está en las mejores "
+"manos."
+msgstr "With us you can rest knowing that your platform is in the best hands."
+
+#: Views/Home.php:230
+msgid " Todo lo que hacemos por usted."
+msgstr " Everything we do for you."
+
+#: Views/Home.php:239
+msgid "Micromercio "
+msgstr "Micromercio "
+
+#: Views/Home.php:241
+msgid "construye"
+msgstr "builds"
+
+#: Views/Home.php:243
+msgid " para usted"
+msgstr " for you"
+
+#: Views/Home.php:247
+msgid ""
+"Ponemos a disposicion de nuestros clientes diferentes tipos de soluciones, "
+"servicios que le permitirán desde crear su plataforma corporativa "
+"construidas con páginas web dinámicas, hasta servicios de amortización de la "
+"inversión en la construcción de su aplicativp. Pasando por servicios de "
+"alojamiento web, compra de dominio, soporte, personalización, y mucho más."
+msgstr ""
+"We offer our clients different types of solutions, services that will allow "
+"you to create your corporate platform built with dynamic web pages, to "
+"investment amortization services in the construction of your "
+"applicationtivp. Going through web-based services, domain purchase, support, "
+"customization, and more."
+
+#: Views/Home.php:255
+msgid "Diseños responsive."
+msgstr "Responsive designs."
+
+#: Views/Home.php:258
+msgid ""
+"Para adaptarse a casi todos los tamaños de pantallas y dispositivos "
+"táctiles. Hoy dia el uso de estos dispositivos está tan extendidos como los "
+"ordenadores"
+msgstr ""
+"Suitable for almost all screen sizes and touchscreen devices. Today the use "
+"of these devices is as widespread as computers"
+
+#: Views/Home.php:268
+msgid "Programación dinámica."
+msgstr "Dynamic programming."
+
+#: Views/Home.php:271
+msgid ""
+"Permite que diferentes lenguajes de programacion interactúen con el usuario "
+"dependiendo de sus acciones en la plataforma web."
+msgstr ""
+"It allows different programming languages to interact with the user "
+"depending on their actions in the web platform."
+
+#: Views/Home.php:281
+msgid "Destaque sobre sus competidores."
+msgstr "Stand out from your competitors."
+
+#: Views/Home.php:284
+msgid ""
+"Rapidamente atraerá más posibles usuarios, y por ello, más posibles clientes "
+"potenciales con una plataforma que ofrezca un diseño y usabilidad acordes "
+"con los diseños actuales"
+msgstr ""
+"It will quickly attract more potential users, and therefore, more potential "
+"customers with a platform that offers a design and usability consistent with "
+"current designs"
+
+#: Views/Home.php:295
+msgid "Integre fácilmente elementos multimedia."
+msgstr "Easily integrate multimedia elements."
+
+#: Views/Home.php:298
+msgid ""
+"No importa si es un video o cientos de fotos, no hay limites. Las "
+"plataformas web construidas por Micromercio le permiten incrustar cualqueir "
+"contenido multimedia."
+msgstr ""
+"No matter if it's a video or hundreds of photos, there are no limits. Web "
+"platforms built by Micromercio allow you to embed any multimedia content."
+
+#: Views/Home.php:308
+msgid "Soporte Parallax."
+msgstr "Parallax Support."
+
+#: Views/Home.php:311
+msgid ""
+"Efectos de diseño que aumentan el valor de diseño de sus páginas web creando "
+"elementos llamativos y dinámicos para el visitante."
+msgstr ""
+"Design effects that increase the design value of your web pages by creating "
+"eye-catching and dynamic elements for the visitor."
+
+#: Views/Home.php:321
+msgid "Presencia en la nube"
+msgstr "Presence in the cloud"
+
+#: Views/Home.php:324
+msgid ""
+"Una de las mayores ventajes que ofrece tener una plataforma centralizada en "
+"la nube, es la facilidad de acceso desde cualquier punto del planeta, su "
+"plataforma web no cierra."
+msgstr ""
+"One of the biggest advantages of having a centralized platform in the cloud, "
+"is the ease of access from anywhere on the planet, its web platform does not "
+"close."
+
+#: Views/Home.php:335
+msgid "Convertimos su idea."
+msgstr "We turn your idea into something."
+
+#: Views/Home.php:338
+msgid ""
+"Transformamos su idea en una plataforma web operativa para que esa idea sea "
+"usada por cualquier usuario que la visite."
+msgstr ""
+"We transform your idea into an operative web platform so that this idea can "
+"be used by any user who visits it."
+
+#: Views/Home.php:348
+msgid "Construimos plataformas con dedicación."
+msgstr "We build platforms with dedication."
+
+#: Views/Home.php:351
+msgid ""
+"Para nosotros, de la misma manera que para usted, lo acabados son tán "
+"importantes como la plataforma en sí misma."
+msgstr ""
+"For us, just as for you, the finishes are as important as the platform "
+"itself."
+
+#: Views/Home.php:361
+msgid "Necesita presupuesto."
+msgstr "You need an estimate."
+
+#: Views/Home.php:364
+msgid ""
+"Micromercio estará encantado de atenderle cuando lo desee, pida presupuesto "
+"sin compromiso."
+msgstr ""
+"Micromercio will be happy to assist you whenever you want, ask for a quote "
+"without obligation."
+
+#: Views/Home.php:375 Views/Home.php:387 Views/Home.php:399 Views/Home.php:411
+msgid "+ "
+msgstr "+ "
+
+#: Views/Home.php:379
+msgid "Lineas de Código escritas"
+msgstr "Written Code Lines"
+
+#: Views/Home.php:391
+msgid "Kbytes de Archivos realizados"
+msgstr "Kbytes of files made"
+
+#: Views/Home.php:403
+msgid "Plantillas Realizadas"
+msgstr "Made Templates"
+
+#: Views/Home.php:415
+msgid "Horas de desarrollo realizadas"
+msgstr "Development hours performed"
+
+#: Views/Home.php:427
+msgid "Hacemos aplaciones optimizadas para dispositivos móviles."
+msgstr "We make appeases optimized for mobile devices."
+
+#: Views/Home.php:431
+msgid ""
+"Implementamos apps personalizadas para empresas y pequeños negocios. "
+"Aplicaciones que pueden ser instaladas tanto en dispositivos Android como en "
+"IOS"
+msgstr ""
+"We implement custom apps for businesses and small businesses. Apps that can "
+"be installed on both Android and IOS devices"
+
+#: Views/Home.php:434
+msgid ""
+"Los aplicativos en dispositivos moviles le ayudarán a difundir contenido "
+"dinámico que se acoplarán perfectamente a cualquier modelo de negocio, "
+"ampliando el impacto en un canal completamente establecido y novedoso como "
+"es el de los dispositivos móviles."
+msgstr ""
+"Applications on mobile devices will help you spread dynamic content that "
+"will fit perfectly into any business model, expanding the impact on a fully "
+"established and novel channel such as mobile devices."
+
+#: Views/Home.php:437 Views/header.php:81
+#: Views/quienes_somos/quienes_somos.php:49
+msgid "Quienes Somos"
+msgstr "About Us"
+
+#: Views/Impresion3D/Impresion3D.php:25
+#, fuzzy
+msgid "Nuevo Servicio de Impresión 3D"
+msgstr "New 3D Printing Service"
+
+#: Views/Impresion3D/Impresion3D.php:47
+#, fuzzy
+msgid "Servicio Impresión 3D"
+msgstr "3D Printing Service"
+
+#: Views/Impresion3D/Impresion3D.php:48
+#, fuzzy
+msgid ""
+"Nos complace anunciar que ya ofrecemos servicio de Impresión 3D en Las "
+"Palmas de Gran Canaria. Servicio casi en exclusividad en las islas, si "
+"necesita más información contacte con nosotros."
+msgstr ""
+"We are pleased to announce that we already offer 3D Printing service in Las "
+"Palmas de Gran Canaria. Service almost exclusively on the islands, if you "
+"need more information contact us."
+
+#: Views/Impresion3D/Impresion3D.php:50 Views/header.php:92
+msgid "Contactar"
+msgstr "Contact"
+
+#: Views/Servicios/Servicios.php:25
+#, fuzzy
+msgid "Los Servicios web que ofrecemos"
+msgstr "The Web Services We Offer"
+
+#: Views/Servicios/Servicios.php:49 Views/header.php:86
+msgid "Nuestros Servicios"
+msgstr "Our Services"
+
+#: Views/Servicios/Servicios.php:52
+#, fuzzy
+#| msgid " Todo lo que hacemos por usted."
+msgid "Que podemos hacer por usted"
+msgstr " Everything we do for you."
+
+#: Views/Servicios/Servicios.php:71
+msgid "Definimos"
+msgstr "We define"
+
+#: Views/Servicios/Servicios.php:71
+msgid "Entendiendo sus necesidades"
+msgstr "Understanding your needs"
+
+#: Views/Servicios/Servicios.php:80
+msgid "Diseñamos"
+msgstr "We design"
+
+#: Views/Servicios/Servicios.php:80
+msgid "El proyecto que necesita"
+msgstr "The project you need"
+
+#: Views/Servicios/Servicios.php:89
+msgid "Personalizamos"
+msgstr "We personalize"
+
+#: Views/Servicios/Servicios.php:89
+msgid "Le damos el aspecto que busca"
+msgstr "We give you the look you are looking for"
+
+#: Views/Servicios/Servicios.php:99
+msgid "Validamos"
+msgstr "We validate"
+
+#: Views/Servicios/Servicios.php:99
+msgid "Realizamos pruebas de funcionalidad"
+msgstr "We test functionality"
+
+#: Views/Servicios/Servicios.php:108
+msgid "Ponemos en produccion"
+msgstr "We put in production"
+
+#: Views/Servicios/Servicios.php:108
+msgid "Ya tiene su plataforma operativa"
+msgstr "You already have your operating platform"
+
+#: Views/Servicios/Servicios.php:117
+msgid "Mantenemos"
+msgstr "We care"
+
+#: Views/Servicios/Servicios.php:117
+msgid "Cuidamos de su plataforma"
+msgstr "We take care of your platform"
+
+#: Views/Servicios/Servicios.php:132
+msgid "Porque llamarnos"
+msgstr "Why call us"
+
+#: Views/Servicios/Servicios.php:133
+msgid ""
+"Porque estará asesorado por personas cualificadas y con gran experiencia, la "
+"mejor elección para construir su proyecto web"
+msgstr ""
+"Because you will be advised by qualified and experienced people, the best "
+"choice to build your web project"
+
+#: Views/Servicios/Servicios.php:141
+msgid "Nuestra Misión"
+msgstr "Our Mission Statement"
+
+#: Views/Servicios/Servicios.php:142
+msgid ""
+"Construimos su página web para crear el espacio digital de su empresa "
+"obteniendo de esta manera su página web corporativa"
+msgstr ""
+"We build your website to create your company's digital space by thus "
+"obtaining your corporate website"
+
+#: Views/Servicios/Servicios.php:149
+msgid "Que Obtiene"
+msgstr "What You Get"
+
+#: Views/Servicios/Servicios.php:150
+#, php-format
+msgid ""
+"Dejar de pertenecer al 30% de empresas españolas que no tienen su presencia "
+"corporativa en la red y están dejando de obtener más beneficios"
+msgstr ""
+"Stop belonging to the 30% of Spanish companies that do not have their "
+"corporate presence on the network and are ceasing to obtain more profits"
+
+#: Views/Servicios/Servicios.php:178
+msgid "Que integramos"
+msgstr "What we integrate"
+
+#: Views/Servicios/Servicios.php:179
+msgid "Características que dan valor a su plataforma"
+msgstr "Features that add value to your platform"
+
+#: Views/Servicios/Servicios.php:196
+msgid "Diseños responsive"
+msgstr "Responsive Designs"
+
+#: Views/Servicios/Servicios.php:197
+msgid ""
+"Pensados para el uso de dispositivos moviles y táctiles, estos dispositivos "
+"se usan casi tanto como los ordenadores actualmente"
+msgstr ""
+"Designed for the use of mobile and touch devices, these devices are used "
+"almost as much as computers today"
+
+#: Views/Servicios/Servicios.php:208
+msgid "Plataformas seguras"
+msgstr "Secure Platforms"
+
+#: Views/Servicios/Servicios.php:209
+msgid ""
+"Un uso de código seguro es fundamental en la actualidad, código limpio y sin "
+"bugs"
+msgstr "A use of secure code is fundamental nowadays, clean and bug-free code"
+
+#: Views/Servicios/Servicios.php:220
+msgid "Alojamiento web profesional"
+msgstr "Professional web hosting"
+
+#: Views/Servicios/Servicios.php:221
+msgid ""
+"Proveemos de servidores donde alojamos su página web, servidores escalables "
+"y potentes."
+msgstr ""
+"We provide servers where we host your website, scalable and powerful servers."
+
+#: Views/Servicios/Servicios.php:236
+msgid "Distintas tecnologías"
+msgstr "Different technologies"
+
+#: Views/Servicios/Servicios.php:237
+msgid ""
+"Con el uso de capas con distintos lenguajes obtenemos una gran variedad de "
+"funcionalidades, con éstas funcionalidades desarrollamos su página web "
+"profesional"
+msgstr ""
+"With the use of layers with different languages we get a wide variety of "
+"functionalities, with these functionalities we develop your professional "
+"website"
+
+#: Views/Servicios/Servicios.php:248
+msgid "Comercio Electrónico"
+msgstr "E-Commerce"
+
+#: Views/Servicios/Servicios.php:249
+msgid ""
+"Proyectamos plataformas de comercio online para ampliar la ventas de su "
+"negocio, o bien, escaparates online si prefiere solo tener un escaparate "
+"virtual accesible"
+msgstr ""
+"We project online commerce platforms to expand the sales of your business, "
+"or online shop windows if you prefer only to have an accessible virtual shop "
+"window"
+
+#: Views/Servicios/Servicios.php:260
+msgid "Mantenimiento personalizable"
+msgstr "Customizable maintenance"
+
+#: Views/Servicios/Servicios.php:261
+msgid ""
+"Mantendremos su plataforma actualizada y segura. Creando backups (respaldos) "
+"para que nunca pierda nada y controlando cualquier posible intento de "
+"intrusión"
+msgstr ""
+"We will keep your platform updated and secure. Creating backups so that you "
+"never lose anything and controlling any possible intrusion attempts"
+
+#: Views/Servicios/Servicios.php:281
+msgid "Tenemos más servicios"
+msgstr "We have more services"
+
+#: Views/Servicios/Servicios.php:282
+msgid ""
+"Ponemos a su disposición herramientas que son muy útiles para su plataforma "
+"comercial como comprar de dominio, alojamiento páginas web, posicionamiento "
+"web, etc. <b><a href='contact.php'>Consúltenos</a></b>"
+msgstr ""
+"We offer you tools that are very useful for your trading platform such as "
+"domain buying, website accommodation, web positioning, etc. <b> <a "
+"href='contact.php'>Contact us</a></b>"
+
+#: Views/Servicios/Servicios.php:307
+msgid "Pedir Presupuesto es supersencillo"
+msgstr "Asking for a budget is supereasy"
+
+#: Views/Servicios/Servicios.php:308
+msgid "Simplemente siga estos tres pasos"
+msgstr "Simply follow these three steps"
+
+#: Views/Servicios/Servicios.php:323
+msgid "Tener un proyecto"
+msgstr "Having a project"
+
+#: Views/Servicios/Servicios.php:324
+msgid ""
+"Puede tener una idea clara de lo que quiere hacer, o bien tener más o menos "
+"una idea y prefiere dejarse asesorar"
+msgstr ""
+"You may have a clear idea of what you want to do, or you may have more or "
+"less an idea and prefer to be advised"
+
+#: Views/Servicios/Servicios.php:335
+msgid "Ponerse en contacto"
+msgstr "Get in touch with us"
+
+#: Views/Servicios/Servicios.php:336
+msgid ""
+"Póngase en contacto con nosotros y cuéntenos que desea hacer, definiremos un "
+"posible proyecto que se realizaría orientado completamente a sus necesidades "
+"y gustos"
+msgstr ""
+"Contact us and tell us what you want to do, we will define a possible "
+"project that would be completely oriented to your needs and tastes"
+
+#: Views/Servicios/Servicios.php:347
+msgid "Recibir presupuesto"
+msgstr "Receive quotation"
+
+#: Views/Servicios/Servicios.php:348
+msgid ""
+"Una vez definido el proyecto, recibirá por email la estimación del coste "
+"presupuestario del mismo."
+msgstr ""
+"Once the project has been defined, you will receive an estimate of its "
+"budget cost by email."
+
+#: Views/footer.php:35
+msgid "Todos los derechos reservados por Micromercio"
+msgstr "All rights reserved by Micromercio"
+
+#: Views/footer.php:144
+#, fuzzy
+msgid "Por favor, Complete todos los campos"
+msgstr "Please complete all fields"
+
+#: Views/header.php:78
+msgid "Inicio"
+msgstr "Home"
+
+#: Views/header.php:83
+msgid "Noticias"
+msgstr "News"
+
+#: Views/header.php:89
+#, fuzzy
+msgid "Impresión 3D"
+msgstr "3D Printing"
+
+#: Views/quienes_somos/quienes_somos.php:25
+#, fuzzy
+msgid "Quienes somos y a que nos dedicamos"
+msgstr "Who we are and what we do"
+
+#: Views/quienes_somos/quienes_somos.php:52
+msgid "Conózcanos un poco mejor"
+msgstr "Get to know us a little better"
+
+#: Views/quienes_somos/quienes_somos.php:67
+msgid "Construcción "
+msgstr "Construction "
+
+#: Views/quienes_somos/quienes_somos.php:67
+msgid "de páginas web"
+msgstr "websites"
+
+#: Views/quienes_somos/quienes_somos.php:70
+msgid ""
+"Somos una pequeña y sólida empresa con más de diez años de experencia en el "
+"sector de construcción de páginas web en las palmas. En nuestro folder de "
+"trabajo se puden encontrar la realización de páginas web en las palmas, "
+"desarrollo de páginas web en peninsula y construcción de páginas web en el "
+"reino unido."
+msgstr ""
+"We are a small and solid company with more than ten years of experience in "
+"the sector of building web pages in the palms. In our working folder you can "
+"find the realization of web pages in the palms, development of web pages in "
+"peninsula and construction of web pages in the United Kingdom."
+
+#: Views/quienes_somos/quienes_somos.php:76
+#: Views/quienes_somos/quienes_somos.php:86
+msgid "Como "
+msgstr "As "
+
+#: Views/quienes_somos/quienes_somos.php:76
+msgid "empresa de páginas web"
+msgstr "website company"
+
+#: Views/quienes_somos/quienes_somos.php:79
+msgid ""
+"Nuestro objetivo es la realización de páginas web de las que nos sintamos "
+"orgullosos, nuestros clientes y nosotros mismos. Nuestra motivación va más "
+"allá del beneficio monetario, disfrutar de una página web con diseño "
+"profesional y unos buenos acabados, ese es otro de nuestros objetivos. Un "
+"desarrollo web profesional con un diseño web profesional, es con total "
+"seguridad uno de nuestros objetivos más importantes "
+msgstr ""
+"Our goal is to make websites that we are proud of, our customers and "
+"ourselves. Our motivation goes beyond monetary benefit, enjoying a website "
+"with professional design and good finishes, that is another of our "
+"objectives. A professional web development with a professional web design, "
+"is surely one of our most important objectives "
+
+#: Views/quienes_somos/quienes_somos.php:86
+msgid "empresa de servicios web"
+msgstr "web services company"
+
+#: Views/quienes_somos/quienes_somos.php:89
+msgid ""
+"Nos encargamos de todo el proceso en la creación de paginas web, tanto en "
+"páginas web para empresas como así en páginas web para profesionales. "
+"También le asesoramos acerca del mejor alojamiento para páginas web, le "
+"buscamos y contratamos el dominio web, y por supuesto, nos encargamos del "
+"desarrollo web con distintos lenguajes de programación en virtud de las "
+"funciones que la página vaya a realizar. "
+msgstr ""
+"We take care of the whole process in the creation of websites, both on "
+"websites for companies and as well on websites for professionals. We also "
+"advise you on the best accommodation for websites, we search for and "
+"contract the web domain, and of course, we take care of web development with "
+"different programming languages under the functions that the page will "
+"perform. "
+
+#: Views/quienes_somos/quienes_somos.php:101
+msgid "Micromercio nunca duerme"
+msgstr "Micromercio never sleeps"
+
+#: Views/quienes_somos/quienes_somos.php:102
+msgid ""
+"Todos sus procesos son monitorizados a tiempo real para que su comercio este "
+"abierto 24/7/365"
+msgstr ""
+"All your processes are monitored in real time so that your trade is open "
+"24/7/365"
+
+#: Views/quienes_somos/quienes_somos.php:125
+msgid "Que hacemos realmente"
+msgstr "What we really do"
+
+#: Views/quienes_somos/quienes_somos.php:127
+msgid ""
+"A medida que han pasado los años, los distintos lenguajes de programación "
+"han ido tomando mayor relevancia en la construccion de diferentes "
+"plataformas y aplicaciones web."
+msgstr ""
+"Over the years, different programming languages have become more relevant in "
+"building different platforms and web applications."
+
+#: Views/quienes_somos/quienes_somos.php:128
+msgid ""
+"Actualmente están fuertemente consolidadas diferentes tecnologías basadas en "
+"lenguajes de programación, plataformas y por supuesto toda clase de "
+"comercios  están siendo construidas con ellas. <b>Nosootros hace uso de una "
+"buena parte de esos lenguajes</b>."
+msgstr ""
+"Currently different technologies based on programming languages, platforms "
+"and of course all kinds of shops are being built with them are strongly "
+"consolidated. <b>Nosootros makes use of a good part of those languages.</b>."
+
+#: Views/quienes_somos/quienes_somos.php:129
+msgid ""
+"<b>Usamos las mas avanzadas tecnologías en la programación para el diseño y "
+"la construcción de páginas web profesionales.</b> Desarrollamos apliaciones "
+"web implementando lenguajes dinámicos que ofrecerán la mejor experiencia al "
+"usuario. De hecho, llevamos haciéndolo hace más de diez años"
+msgstr ""
+"<b>We use the most advanced technologies in programming for the design and "
+"construction of professional websites.</b> We develop web applications "
+"implementing dynamic languages that will offer the best user experience. In "
+"fact, we've been doing it for over ten years"
+
+#: Views/quienes_somos/quienes_somos.php:135
+msgid "Horario de comercio"
+msgstr "Trading hours"
+
+#: Views/quienes_somos/quienes_somos.php:136
+msgid "Horarios de apertura y cierre"
+msgstr "Opening and closing times"
+
+#: Views/quienes_somos/quienes_somos.php:140
+msgid "Lunes"
+msgstr "Monday"
+
+#: Views/quienes_somos/quienes_somos.php:144
+msgid "Martes"
+msgstr "Tuesday"
+
+#: Views/quienes_somos/quienes_somos.php:148
+msgid "Miércoles"
+msgstr "Wednesday"
+
+#: Views/quienes_somos/quienes_somos.php:152
+msgid "Jueves"
+msgstr "Thursday"
+
+#: Views/quienes_somos/quienes_somos.php:156
+msgid "Viernes"
+msgstr "Friday"
+
+#: Views/quienes_somos/quienes_somos.php:160
+msgid "Sábado"
+msgstr "Saturday"
+
+#: Views/quienes_somos/quienes_somos.php:161
+#: Views/quienes_somos/quienes_somos.php:165
+msgid "Cerrado"
+msgstr "Closed"
+
+#: Views/quienes_somos/quienes_somos.php:164
+msgid "Domingo"
+msgstr "Sunday"
+
+#~ msgid "Hosting"
+#~ msgstr "Alojamiento"
+
+#~ msgid "Dominios"
+#~ msgstr "Domains"
+
+#~ msgid "Proyecto Web"
+#~ msgstr "We Platform"
+
+#~ msgid "Mantenimiento/Actualización"
+#~ msgstr "Support"
+
+#~ msgid ""
+#~ "Micromercio no guarda ningún dato personal enviado en estos campos. El "
+#~ "envio de los datos de estos campos están tratados mediante"
+#~ msgstr ""
+#~ "Micromercio does not store any personal data sent in these fields. The "
+#~ "sending of data from these fields is processed by"
+
+#~ msgid ""
+#~ "no serán cedidos a terceras personas ni a compañías. Se entiende que al "
+#~ "ponerse en contacto con nosotros tenemos su consentimiento para el "
+#~ "tratamiento de cualquier dato dejado en estos campos exclusivamente para "
+#~ "poder ponernos en contacto con usted."
+#~ msgstr ""
+#~ "it will not be ceded to third parties or companies. It is understood that "
+#~ "when contacting us we have your consent to the treatment of any data left "
+#~ "in these fields exclusively to be able to contact YOU."
+
+#~ msgid "en"
+#~ msgstr "es"
+
+#~ msgid "Porque "
+#~ msgstr "Why "
+
+#~ msgid "seleccionarnos"
+#~ msgstr "choose us"
+
+#~ msgid "Nuestro "
+#~ msgstr "Our "
+
+#~ msgid "objetivo"
+#~ msgstr "goal"
+
+#~ msgid "Que "
+#~ msgstr "What "
+
+#~ msgid "hacemos"
+#~ msgstr "we do"
+
+#~ msgid "Lenguaje"
+#~ msgstr "Language"
+
+#~ msgid " Uso"
+#~ msgstr " Usage"
+
+#~ msgid ""
+#~ "Se muestra a la derecha un gráfico resumen sobre plataformas y lenguajes "
+#~ "mas usados "
+#~ msgstr ""
+#~ "A summary chart showing the most used platforms and languages is shown on "
+#~ "the right. "
+
+#~ msgid "La evolucion del sistema"
+#~ msgstr "The evolution of the system"
+
+#~ msgid "Acerca de Nosotros"
+#~ msgstr "About Our Company"
+
+#~ msgid "plataformas web"
+#~ msgstr "web platforms"
+
+#~ msgid "Para pequeñas, medianas o grandes empresas"
+#~ msgstr "For small, medium and large companies"
+
+#~ msgid "Bienvenid@ a"
+#~ msgstr "Welcome to"
+
+#~ msgid ""
+#~ "Creamos plataformas web profesionales, para diferentes plataformas y "
+#~ "entornos."
+#~ msgstr ""
+#~ "We create professional web platforms for different platforms and "
+#~ "environments."
+
+#~ msgid ""
+#~ "Micromercio construye plataformas web (páginas web) personalizadas para "
+#~ "empresas. Diseñamos plataformas web con distintas tecnologias actuales."
+#~ msgstr ""
+#~ "Micromercio builds custom web platforms (websites) for companies. We "
+#~ "design web platforms with different current technologies."
+
+#~ msgid ""
+#~ "Programamos páginas web dinámicas, plataformas construidas en diferentes "
+#~ "lenguages que le ayudarán a difundir contenido dinámico que se acoplarán "
+#~ "perfectamente a cualquier dispositivo."
+#~ msgstr ""
+#~ "We program dynamic web pages, platforms built in different languages that "
+#~ "will help you to broadcast dynamic content that will fit perfectly to any "
+#~ "device."
+
+#~ msgid ""
+#~ "Ponemos a su disposición herramientas que son muy útiles para su "
+#~ "plataforma comercial"
+#~ msgstr ""
+#~ "We provide you with tools that are very useful for your trading platform"
+
+#~ msgid ""
+#~ "Los servicios de los que usted podrá disfrutar le permitirán desde "
+#~ "posicionar su plataforma corporativa en los primeros puestos de "
+#~ "resultados cuando se hagan búsquedas con terminos relacionados en su "
+#~ "sector, hasta el control mediante informes y gráficos de distintos datos "
+#~ "online relevantes para su negocio."
+#~ msgstr ""
+#~ "The services you will be able to enjoy will allow you to position your "
+#~ "corporate platform at the top of the results when searching for terms "
+#~ "related to your sector, as well as the control through reports and graphs "
+#~ "of different online data relevant to your business."
+
+#~ msgid "Alternar ejemplo"
+#~ msgstr "Alternate example"
